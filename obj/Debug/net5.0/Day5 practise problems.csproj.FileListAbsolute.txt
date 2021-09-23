@@ -1,0 +1,16 @@
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.csproj.AssemblyReference.cache
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.AssemblyInfoInputs.cache
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.AssemblyInfo.cs
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.csproj.CoreCompileInputs.cache
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\bin\Debug\net5.0\Day5 practise problems.exe
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\bin\Debug\net5.0\Day5 practise problems.deps.json
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\bin\Debug\net5.0\Day5 practise problems.runtimeconfig.json
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\bin\Debug\net5.0\Day5 practise problems.runtimeconfig.dev.json
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\bin\Debug\net5.0\Day5 practise problems.dll
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\bin\Debug\net5.0\ref\Day5 practise problems.dll
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\bin\Debug\net5.0\Day5 practise problems.pdb
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.dll
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\ref\Day5 practise problems.dll
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.pdb
+C:\Users\SAI KUMAR\source\repos\Day5 practise problems\Day5 practise problems\obj\Debug\net5.0\Day5 practise problems.genruntimeconfig.cache

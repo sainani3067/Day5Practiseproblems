@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Day5 practise problems": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
